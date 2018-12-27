@@ -1,7 +1,7 @@
 #include <iostream>
 #include <thread>
 #include <string>
-#include "xd.h" 
+#include "picosha256.h" 
 #include <vector>
 #include <stdlib.h>
 #include <fstream>
